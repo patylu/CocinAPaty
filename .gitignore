@@ -6,3 +6,5 @@
 *.ear
 /CocinAPaty/nbproject/private/
 /CocinAPaty/build/
+/CocinAPaty/dist/
+/SplashDemo/nbproject/private/
